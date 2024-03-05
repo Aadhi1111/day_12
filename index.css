@@ -1,0 +1,31 @@
+form{
+    margin : 30px  330px;
+    border : 1px solid black;
+    width: 800px;
+}
+
+.form-group{
+    padding-left: 40px;
+}
+
+label{
+    font-weight: bold;
+}
+
+.mandatory{
+    color: red;
+}
+
+#name{
+    display:flex;
+    flex-direction: row;
+    align-items:flex-start;
+}
+
+.id2{
+    padding-left:15px;
+}
+
+#email{
+    width:390px
+}
